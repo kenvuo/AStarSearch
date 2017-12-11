@@ -329,7 +329,7 @@ class AStarSearch {
 
 		}
 		else {				
-			System.out.println("Wrong args. Try: java Oblig2 [FILE]");;	
+			System.out.println("Wrong args. Try: java AStarSearch [FILE]");;	
 		}
 	}
 
